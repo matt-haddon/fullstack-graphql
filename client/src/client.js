@@ -13,8 +13,8 @@ import {
 /**
  * Create a new apollo client and export as default
  */
-const link = 'uri:http://localhost:4000/'
+const link = 'http://localhost:4000/'
 const cache = new InMemoryCache()
-const client = new ApolloClient({link, cache})
+const client = new ApolloClient({uri: link, cache: cache})
 
 export default client

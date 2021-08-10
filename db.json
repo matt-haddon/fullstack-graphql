@@ -1,1 +1,30 @@
-{}
+{"user":{
+  "id":"jBWMVGjm50l6LGwepDoty",
+  "username": "frontendmaster"
+},
+
+"pet":[
+  {
+  "id": "485yjher",
+  "type": "DOG",
+  "name": "Moose",
+  "createdAt":"823746358"
+
+},
+{
+  "id": "485wehyjher",
+  "type": "CAT",
+  "name": "Garfield",
+  "createdAt":"823746358"
+
+},
+{
+  "id": "485yjndmbcher",
+  "type": "DOG",
+  "name": "Karma",
+  "createdAt":"823746358"
+
+}
+
+]
+}
